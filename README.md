@@ -6,8 +6,8 @@ This script was used to analyze records to calcuate different values such as
       Net total amount of Profit/Losses over the the entire period, including average of change
       Greatest increase/decrease in profits over the entire period. 
 
-PyPoll challenge focuses on modernizing vout-couting process in a small rural town
-This script was used to analyse votes to calculate different values such as
+PyPoll challenge focuses on modernizing vote-counting process in a small rural town
+This script was used to analyze votes to calculate different values such as
       Total number of votes
       List of candidates who got votes
       Percentage of votes from these candidates
